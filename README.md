@@ -76,9 +76,9 @@ You can check if you have the latest versions by running these commands:
 
  Once you're ready to go, navigate in the Command Line Interface to where you saved this repository to use the following commands:
 
-* cd frontend
+* cd internship
   ```sh
-  cd frontend
+  cd internship
   ```
 * npm install
   ```sh
