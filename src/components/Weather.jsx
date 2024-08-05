@@ -40,7 +40,7 @@ export const Weather = () => {
           )}
         </div>
       ) : (
-        <p>Loading...</p>
+        null
       )}
     </div>
   )
