@@ -10,11 +10,11 @@ export const Weather = () => {
       const data = await response.json();
       setWeather(data)
       console.log(data)
-     
+      return data
 
     } catch (error) {
       console.log(error)
-      return data
+     
     }
   }
   const cityName = weather?.city?.name;
